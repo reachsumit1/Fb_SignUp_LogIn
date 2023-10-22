@@ -1,0 +1,63 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.main{
+    margin-left: 500px;
+    /* margin-top: 200px; */
+    border: 2px solid white;
+    box-shadow: 2px 2px 2px 2px;
+    width: 550px;
+    height: 300px;
+    border-radius: 5px;
+}
+.h{
+    margin-left: 10px;
+    padding: 15px;
+
+}
+.p1{
+    margin: 10px;
+    margin-left: 22px;
+    padding: 3px;
+}
+.email1{
+    margin-left: 30px;
+    padding: 10px;
+    width: 480px;
+    margin-top: 10px;
+    font-size: larger;
+    font-weight: 400;
+    outline: none;
+}
+.btn{
+    display: flex;
+    flex-direction: row-reverse;
+    margin-top: 20px;
+}
+.btn1{
+    color: white;
+    
+    padding: 10px;
+    background-color: rgb(55, 55, 237);
+
+}
+.btn2{
+    padding: 10px;
+    border: none;
+}
+.btn3{
+    font-size: larger;
+    width: 150px;
+    margin: 10px;
+    border-radius: 5px;
+}
+.hr1{
+    margin-top: 25px;
+}
+.fb{
+    margin-left: 650px;
+    margin-top: 200px;
+    width: 17rem;
+}
